@@ -1,0 +1,49 @@
+/* main-banner */
+.main-banner{
+   width: 1440px; 
+   height: 652px;
+   opacity: 100%;
+   gap: 10px;
+    
+}
+
+/* banner */
+ .banner{
+    background-image: url("../assets/Hero-bg.png");
+    justify-content: center;
+    opacity: 100%;
+    justify-content: space-between;
+    
+
+ }   
+ /* img2 */
+ .img-2{
+    display: flex;
+    justify-content: center;
+    /* flex-direction: column; */
+ }
+ /* hading cexson */
+ .hading{
+    display: flex;
+    justify-content: center;
+ }
+ /* para */
+ .para{
+    display: flex;
+    justify-content: center;
+ }
+/* batom */
+.batom{
+   display: flex;
+   color: white;
+   justify-content: center;
+
+}
+/* btn */
+.btn{
+   padding: 10px 20px;
+   background-color: black;
+   color: white;
+   border-radius: 5px;
+
+}

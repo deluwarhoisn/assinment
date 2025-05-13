@@ -3,8 +3,13 @@
    width: 1440px; 
    height: 652px;
    opacity: 100%;
-   gap: 10px;
+   position: 131px;
+
     
+}
+.all-second{
+ opacity: 100%;
+ border-radius: 16px;
 }
 
 /* banner */
@@ -46,4 +51,133 @@
    color: white;
    border-radius: 5px;
 
+}
+/* btn-2 */
+.btn-2{
+   opacity: 70%;
+   padding: 20px 12px;
+}
+/* second */
+.second{
+   display: flex;
+   justify-content: center;
+   
+}
+/* tts */
+.tts{
+   display: flex;
+   justify-content: center;
+}
+/* img2 */
+.img2{
+   display: flex;
+   justify-content: right;
+   padding: 20px 25px;
+   
+}
+
+.secondd{
+   display: flex;
+   justify-content: right;
+}
+
+.ppp{
+   display: flex;
+   justify-content: right;
+   line-height: 26px;
+   letter-spacing: 0%;
+}
+.btn-3{
+   display: flex;
+   justify-content: right;
+}
+.img-4{
+   display: flex;
+   justify-content: right;
+}
+
+.my-2{
+   text-align: center;
+}
+.my{
+   text-align: center;
+}
+
+.my ins{
+   width: 1140px;
+   height: 814px;
+   opacity: 100%;
+}
+
+.my-5{
+   text-align: center;
+   
+}
+.lorem{
+   /* display: flex; */
+   text-align: center;
+   
+}
+.do{
+   background-color: aqua;
+   width: 946px;
+   height: 336px;
+   gap: 32px;
+
+   
+}
+.the-world{
+  width: 946px;
+  height: 336px;
+  gap: 32px;
+  padding: 48px 48px;
+  opacity: 100%;
+}
+.taxt-centar{
+   text-align: center;
+}
+.skille-container{
+   display: flex;
+   gap: 24px;
+   box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.25);
+   justify-content: center;
+   border-radius: 5px;
+}
+.skills{
+   padding: 30px;
+   
+   
+}
+.babu{
+   display: flex;
+   justify-content:right;
+   
+}
+.btn-stlye{
+   line-height: auto;
+   opacity: 100%;
+   text-decoration:line-through;
+   
+   
+}
+.last{
+   background-image:url("../assets/handshake.jpg");
+   width: 1140px;
+   height: 313px;
+   gap: 32px;
+   padding: 48px 64px;
+   opacity: 100%;
+}
+.last-2{
+ text-align: center;
+ width: 1022px;
+ height: 185px;
+ gap: 32px;
+ opacity: 100%;
+}
+.sub{
+   text-align: center;
+   padding: 20px 15px;
+   gap: 16px;
+   opacity: 100%;
 }
